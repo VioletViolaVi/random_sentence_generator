@@ -1,1 +1,1 @@
-# random_sentence_generator
+# Random Sentence Generator
